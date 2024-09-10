@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I believe that once you reach "Hello World" in a project, you're already 80% done! 
 #### Follow @DevJourneyWithAlireza on social: 
- [![logo](./img/linkedin.png)](https://www.linkedin.com/in/marhamatabadi)
+ [![logo](./img/linkedIn.png)](https://www.linkedin.com/in/marhamatabadi)
  [![logo](./img/youtube.png)](https://www.youtube.com/@DevJourneyWithAlireza)
  [![logo](./img/instagram.png)](https://www.instagram.com/DevJourneyWithAlireza)
 #### Support my work: 
